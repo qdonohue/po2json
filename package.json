@@ -47,6 +47,7 @@
     "url": "https://github.com/mikeedwards/po2json/issues"
   },
   "license": "LGPL-2.0-or-later",
+  "main": "index.js",
   "bin": {
     "po2json": "bin/po2json"
   },
