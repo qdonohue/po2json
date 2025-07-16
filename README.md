@@ -1,3 +1,5 @@
+N.B: This is a fork of the original po2json - I just fixed up the node deprecation warnings.
+
 # po2json
 
 [![Build Status](https://secure.travis-ci.org/mikeedwards/po2json.png?branch=master)](http://travis-ci.org/mikeedwards/po2json)
